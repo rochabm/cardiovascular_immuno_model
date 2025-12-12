@@ -4,7 +4,7 @@
 
 ### Reference:
 
-- C. R. Passos, A. A. Moreira, R. F. Reis, R. W. dos Santos, M. Lobosco, and B. M. Rocha, “A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection,” *BioTech*, vol. 14, no. 1, Art. no. 19, 2025, doi:10.3390/biotech14010019.
+- [C. R. Passos, A. A. Moreira, R. F. Reis, R. W. dos Santos, M. Lobosco, and B. M. Rocha, “A Coupled Model of the Cardiovascular and Immune Systems to Analyze the Effects of COVID-19 Infection,” *BioTech*, vol. 14, no. 1, Art. no. 19, 2025, doi:10.3390/biotech14010019.](https://www.mdpi.com/2673-6284/14/1/19)
 
 ### Suppport:
 
